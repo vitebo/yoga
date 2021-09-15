@@ -17,7 +17,7 @@ const Event = styled(Card)`
   border-radius: ${radii.regular}px;
   padding: ${spacing.zero};
   width: 280px;
-  margin-right: ${spacing.xxsmall};
+  margin-right: ${spacing.xxsmall}px;
   ${({ small }) =>
     small
       ? css`

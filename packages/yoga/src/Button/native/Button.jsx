@@ -47,7 +47,7 @@ const ButtonContainer = styled.View`
         button.types.contained.backgroundColor[state].default
       };
       border-radius: ${button.border.radius}px;
-      height: ${small ? button.height.small : button.height.default};
+      height: ${small ? button.height.small : button.height.default}px;
       justify-content: center;
       padding-left: ${
         small ? button.padding.small.left : button.padding.default.left
