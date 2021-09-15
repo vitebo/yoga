@@ -25,10 +25,10 @@
     "url": "https://github.com/Gympass/yoga/issues"
   },
   "devDependencies": {
-    "styled-components": "^4.4.0"
+    "styled-components": "5.3.1"
   },
   "peerDependencies": {
-    "styled-components": "^4.4.0"
+    "styled-components": "5.3.1"
   },
   "publishConfig": {
     "access": "public",

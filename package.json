@@ -60,7 +60,7 @@
     "git-last-commit": "^1.0.0",
     "husky": "3.0.5",
     "jest": "^25.1.0",
-    "jest-styled-components": "^6.3.3",
+    "jest-styled-components": "^7.0.5",
     "lerna": "^3.18.3",
     "lint-staged": "9.2.5",
     "metro-react-native-babel-preset": "^0.59.0",
