@@ -3,6 +3,63 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [7.16.0](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.15.1...@gympass/yoga@7.16.0) (2021-09-20)
+
+
+### Features
+
+* **progress:** add system props to progress ([cd89c57](https://github.com/Gympass/yoga/commit/cd89c5753f332f716c0897fbce4654b59ba424e8))
+
+
+
+
+
+## [7.15.1](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.15.0...@gympass/yoga@7.15.1) (2021-09-17)
+
+**Note:** Version bump only for package @gympass/yoga
+
+
+
+
+
+# [7.15.0](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.14.3...@gympass/yoga@7.15.0) (2021-09-16)
+
+
+### Features
+
+* **icon:** add Box component to Icon ([1d740c5](https://github.com/Gympass/yoga/commit/1d740c59fb62ac45ec2e3f254bdd71439593da50))
+
+
+### Reverts
+
+* **changelog:** keeping the same as we have in master branch ([914c754](https://github.com/Gympass/yoga/commit/914c7540c26bd9998488b5fdbfc281b98cc6c223))
+
+
+
+
+
+## [7.14.3](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.14.2...@gympass/yoga@7.14.3) (2021-09-15)
+
+
+### Bug Fixes
+
+* **Result:** change attendances font color ([171b761](https://github.com/Gympass/yoga/commit/171b7611f9d4a84f5a78da2e49a6989123989d57))
+
+
+
+
+
+## [7.14.2](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.14.1...@gympass/yoga@7.14.2) (2021-09-15)
+
+
+### Bug Fixes
+
+* **Result:** fix align on android devices ([8f2801c](https://github.com/Gympass/yoga/commit/8f2801c829a2c278ea9c0ab05d028fc76c28f669))
+
+
+
+
+
 ## [7.14.1](https://github.com/Gympass/yoga/compare/@gympass/yoga@7.14.0...@gympass/yoga@7.14.1) (2021-09-13)
 
 
