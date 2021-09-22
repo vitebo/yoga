@@ -50,8 +50,6 @@ const generator = ({
   // Getting the value from the theme
   const value = get(themeProp, propFromComponent, propFromComponent);
 
-  if (!value) return '';
-
   const transformedValue = transform(value);
 
   // If the css is an array, like ['marginLeft', 'marginRight'], we produce
